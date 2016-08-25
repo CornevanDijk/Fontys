@@ -1,2 +1,2 @@
 # Fontys-Pit
-Plaats hier je code en documenten
+Plaats je code en documenten in de juiste dir
